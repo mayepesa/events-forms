@@ -1,0 +1,22 @@
+:root {
+  background-color: #242424;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+input{
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: gray;
+  border: 1px solid black;
+  color: aquamarine;
+  margin: 10px 0;
+  font-weight: 600;
+}
+input:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
